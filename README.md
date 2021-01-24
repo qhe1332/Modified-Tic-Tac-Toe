@@ -1,4 +1,4 @@
-# Upgraded-Tic-Tac-Toe
+# Modified-Tic-Tac-Toe
 > **Web Application:** Combat game 
 
 > **Theme:** pets
@@ -42,3 +42,5 @@
 | Crowned Kitten                         | Have the ability to change the opponent’s move. *Chance of Occurrence: 10%* |
 | Dog Cop                                | Can predict the opponent’s next move correctly. *Chance of Occurrence: 10%* |
 | Sneaky Serpent (the mystery character) | Will sneak into the opponent’s team. It will either kill 3 enemies on the other team or betray the player’s team and lead the opponent’s team. Once the serpent betrayed, the player will no longer be able to pick the serpent to join the team). The serpent will always sneak into the other team. *Chance Helping: 80% Chance of Betraying: 20%* |
+
+**Note:** This project is not completed
