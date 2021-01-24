@@ -1,13 +1,13 @@
 # Upgraded-Tic-Tac-Toe
-> Web Application: Combat game 
+> **Web Application:** Combat game 
 
-> Theme: pets
+> **Theme:** pets
 
-> Game: Modified Tic-tac-toe
+> **Game:** Modified Tic-tac-toe
 > * Every player will have a 30 seconds to decide their next move in the game.
 > * There is 5 rounds in the game.
 
-| Round       | Board       | To win, you need...  | Player Team  | Computer Enemy | Award     |
+| **Round     | Board       | To win, you need...  | Player Team  | Computer Enemy | Award**   |
 | ----------- |-------------| -------------------- | ------------ | -------------- | --------- |
 | Round 1     | 3 x 3       | 3 in a row           | 1            | 1              | 5 chips   |
 | Round 2     | 3 x 3       | 3 in a row           | 1            | 2              | 10 chips  |
@@ -26,12 +26,12 @@
 | Rabby Bomb       | Can kill one enemy on the opponent’s team            | 30 chips   |
 | Pandora’s Key    | Use to unlock the mystery pet                        | 5 chips    |
 
-> Teams: 
+> **Teams:** 
 > * The player would create their team during the course of their game.
 > * At most 3 characters.
 > * Can change members in the middle of each round.
 
-> Characters: 
+> **Characters:**
 > * There are 3 characters the players can choose to put on their teams and each character has their advantages.
 > * One character will be mystery. It will be unlocked when the player buy the key to unlock it.
 
